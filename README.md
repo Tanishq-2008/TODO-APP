@@ -25,7 +25,7 @@
 
 **Client/Frontend:**
 - [HTML5 / CSS3 / JavaScript](https://developer.mozilla.org/)
-- [React.js / Vue.js / Tailwind CSS](https://reactjs.org/) *(Update to match your stack)*
+
 
 ---
 
@@ -43,4 +43,4 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
+   git clone git@github.com:Tanishq-2008/TODO-APP.git
